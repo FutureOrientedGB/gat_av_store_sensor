@@ -1,1 +1,1 @@
-# GA/T 1400 Platform
+# GA/T 1400-2017 Platform
